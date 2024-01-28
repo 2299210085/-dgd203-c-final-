@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\final project\final project\bin\Debug\final project.exe.config
+C:\Users\HP\source\repos\final project\final project\bin\Debug\final project.exe
+C:\Users\HP\source\repos\final project\final project\bin\Debug\final project.pdb
+C:\Users\HP\source\repos\final project\final project\obj\Debug\final project.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\final project\final project\obj\Debug\final project.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\final project\final project\obj\Debug\final project.exe
+C:\Users\HP\source\repos\final project\final project\obj\Debug\final project.pdb
